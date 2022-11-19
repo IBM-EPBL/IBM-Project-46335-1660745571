@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: montserrat;
+    background: linear-gradient(120deg,#cc0c35,#8e44ad);
+    height: 100vh;
+    overflow: hidden;
+
+}
+.forpadding{
+    position:absolute;
+    top: 50%;
+    left: 80%;
+    transform: translate(-80%,-50%);
+    width: 600px;
+    background: white;
+    border-radius: 20px;
+}
+.input-field label{
+    left: 25px;
+    pointer-events: none;
+    color: rgb(255, 255, 255);
+    font-size: 55px;
+    transition: .4s;
+}
+
+
+.textinformright name{
+    font-size: medium;
+}
+
+.form{
+
+
+}
+
+.forform{
+    margin: 25px 0;
+    position: relative;
+    height: 50px;
+    width: 100%;
+
+}
+
+.textinformleft{
+   
+    font-size: 30px;
+    transition: .4s;
+    
+}
+
+
+
+.forbutton{
+    margin: 50px 0;
+  position: relative;
+  height: 80px;
+  width: 100%;
+  background-color: #ca1a28;
+}
+
+
+input[type=name] {
+    background-color: #cc2424;
+    position:relative;
+    tab-size: 67px;
+    color: white;
+    border-radius: 30vh;
+    height: 90%;
+    width: 90% ;
+
+}
+
+input[type=password] {
+    background-color: #e01f2f;
+    color: white;
+    border-radius: 30vh;
+    width: 90%;
+}
