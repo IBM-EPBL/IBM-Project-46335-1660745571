@@ -1,6 +1,6 @@
 <br>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/59676954/202415148-3fa43605-a734-47fd-b658-2a14e0b638e2.jpeg" align="center" alt="drawing" width="200" />
+ 
   <h2 align="center">CUSTOMER CARE REGISTRY</h2>
 </div><br>
 
