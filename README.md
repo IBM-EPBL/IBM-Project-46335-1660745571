@@ -1,5 +1,6 @@
 <br>
 <div align="center">
+   <img src="https://assignment3ibmcloudobject.s3.us-east.cloud-object-storage.appdomain.cloud/illustration-customer-care-object.png" align="center" alt="drawing" width="200" />
  
   <h2 align="center">CUSTOMER CARE REGISTRY</h2>
 </div><br>
