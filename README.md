@@ -24,9 +24,25 @@
 | Team Member3 | JANA SHRUTHI M  | 711719104034   |
 
 
+## 🧩 Project Design and planning
+
+https://github.com/IBM-EPBL/IBM-Project-46335-1660745571/tree/main/PROJECT%20DESIGN%20%26%20PLANNING
+
+## 🧩 Project Development Phase
+
+https://github.com/IBM-EPBL/IBM-Project-46335-1660745571/tree/main/PROJECT%20DEVELOPMENT%20PHASE
+
 ## 🧩 Project Demo
 
 https://github.com/IBM-EPBL/IBM-Project-46335-1660745571/blob/main/FINAL%20CODE%20AND%20DEMO%20VIDEO/DEMO%20VIDEO.mp4
+
+## 🧩 Project Document
+
+https://github.com/IBM-EPBL/IBM-Project-46335-1660745571/blob/main/PROJECT%20DOCUMENT%20AND%20OUTPUTS/CUSTOMER%20CARE%20REGISTRY.pdf
+
+
+
+
 
 
 
